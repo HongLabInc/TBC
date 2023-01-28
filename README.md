@@ -7,8 +7,6 @@
 
 - 초보자들에게는 **[코딩 워크북](https://github.com/HongLabInc/TBC-workbook) 사용을 권장**합니다.
 
-- 아주 특별한 경우 외에는 질문이나 수정 요청은 받지 않습니다.
-
 - 챕터 17은 수강평 이벤트로 제공되는 따배씨 부록 - [자료구조 맛보기](https://www.inflearn.com/course/following-c-supplement)에 해당하는 부분입니다.
 
 - git 사용법을 모르시는 분들은 오른쪽 위의 녹색 버튼 Clone or download로 압축 파일을 받아서 사용하시면 됩니다.
